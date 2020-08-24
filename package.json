@@ -1,0 +1,14 @@
+{
+  "name": "startpage",
+  "version": "1.0.0",
+  "description": "startpage from Teatek",
+  "main": "index.js",
+  "scripts": {
+    "buildcss": "npx tailwindcss build src/tailwind.css -o src/index.css"
+  },
+  "author": "Teatek",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.7.3"
+  }
+}

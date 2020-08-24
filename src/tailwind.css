@@ -1,0 +1,10 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+#search-bar {
+    margin-top: 5%;
+    margin-left: 25%;
+}

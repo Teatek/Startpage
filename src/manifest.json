@@ -2,6 +2,7 @@
     "name": "Startpage",
     "version": "1.0",
     "description": "My startpage",
+    "content_security_policy": "script-src 'self'; object-src 'self'",
     "icons": {
         "16": "./data/peanut_butter.jpg"
     },
